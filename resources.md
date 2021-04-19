@@ -21,7 +21,7 @@ Online resources for getting started with SQL
 
 **Interactive tutorials**
 
-- [W3 Schools Intro to sql](https://www.w3schools.com/sql/default.asp)
+- [W3 Schools Intro](https://www.w3schools.com/sql/default.asp)
 
 - [Code wars](https://www.codewars.com/collections/sql-for-beginners)
 
@@ -31,25 +31,25 @@ Online resources for getting started with SQL
 
 - [Hackerrank (mysql)](https://www.hackerrank.com/domains/sql)
 
-- [Kaggle course on SQL and Google Big Query](https://www.kaggle.com/learn/intro-to-sql)
+- [Kaggle walkthroughs on SQL and Google Big Query](https://www.kaggle.com/learn/intro-to-sql)
 
 
 **Random**
 
 - [Tutorials on specific points on Free Code Camp](https://www.freecodecamp.org/news/search/?query=sql)
 
-- [The promise of wikidata (for journalists)](https://datajournalism.com/read/longreads/the-promise-of-wikidata)
+- [The promise of Wikidata (for journalists)](https://datajournalism.com/read/longreads/the-promise-of-wikidata)
 
-- [Flip your csvs to SQL tables in a Jupyter notebook and run SQL queries](https://towardsdatascience.com/python-pandas-and-sqlite-a0e2c052456f)
+- [Flip your csvs to SQL tables in a Jupyter notebook and run queries](https://towardsdatascience.com/python-pandas-and-sqlite-a0e2c052456f)
 
 
 **SQlite Databases**
 
 - [Hillary Clinton's emails, 27 MB](https://www.kaggle.com/kaggle/hillary-clinton-emails)
 
-- [UK arms export database (2008-15), 23 MB](https://www.kaggle.com/kaggle/hillary-clinton-emails)
+- [UK arms exports (2008-15), 23 MB](https://www.kaggle.com/kaggle/hillary-clinton-emails)
 
-- [Machine Bias Propublica Compas database, 62 MB](https://github.com/propublica/compas-analysis)
+- [Machine Bias Propublica Compas, 62 MB](https://github.com/propublica/compas-analysis)
 
 - [UK gov Contracts Finders Archive (2011-15), 94 MB](https://data.gov.uk/data/contracts-finder-archive/data-feeds/)
 
