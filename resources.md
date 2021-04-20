@@ -34,15 +34,6 @@ Online resources for getting started with SQL
 - [Kaggle SQL walkthroughs via Google Big Query](https://www.kaggle.com/learn/intro-to-sql)
 
 
-**Random**
-
-- [Tutorials on specific points on Free Code Camp](https://www.freecodecamp.org/news/search/?query=sql)
-
-- [The promise of Wikidata (for journalists)](https://datajournalism.com/read/longreads/the-promise-of-wikidata)
-
-- [Flip your csvs to SQL tables in a Jupyter notebook and run queries](https://towardsdatascience.com/python-pandas-and-sqlite-a0e2c052456f)
-
-
 **SQlite Databases**
 
 - [Hillary Clinton's emails, 27 MB](https://www.kaggle.com/kaggle/hillary-clinton-emails)
@@ -60,8 +51,12 @@ Online resources for getting started with SQL
 
 - [Fortune, Stephen. A brief history of databases. Avant. 2014](http://avant.org/project/history-of-databases/)
 
+- [Free Code Camp. SQL tutorials (specific points)](https://www.freecodecamp.org/news/search/?query=sql)
+
 - [Jones, Alan. Python, pandas and SQLite. 2020](https://towardsdatascience.com/python-pandas-and-sqlite-a0e2c052456f)
 
 - [Pandey, Parul. Programming with databases in python using SQLite. 2018](https://medium.com/analytics-vidhya/programming-with-databases-in-python-using-sqlite-4cecbef51ab9)
+
+- [Sengul-Jones, Monika. The promise of wikidata: how journalists can use the crowdsourced open knowledge base as a data source. Datajournalism.com. 2021](https://datajournalism.com/read/longreads/the-promise-of-wikidata)
 
 - [Tariq, Ayesha. Python SQLite3 tutorial. Likegeeks. 2019](https://likegeeks.com/python-sqlite3-tutorial/)
