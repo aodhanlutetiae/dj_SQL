@@ -53,6 +53,14 @@ Online resources for getting started with SQL
 
 - [UK gov Contracts Finders Archive (2011-15), 94 MB](https://data.gov.uk/data/contracts-finder-archive/data-feeds/)
 
+- [Simple US datasets from PADJO](http://2016.padjo.org/tutorials/sqlite-data-starterpacks/)
+
+
+**About databases**
+
+
+**SQlite, Python & Jupyter**
+
 
 **Recommended**
 
