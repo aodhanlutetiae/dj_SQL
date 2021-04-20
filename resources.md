@@ -31,7 +31,7 @@ Online resources for getting started with SQL
 
 - [Hackerrank (mysql)](https://www.hackerrank.com/domains/sql)
 
-- [Kaggle walkthroughs on SQL and Google Big Query](https://www.kaggle.com/learn/intro-to-sql)
+- [Kaggle SQL walkthroughs via Google Big Query](https://www.kaggle.com/learn/intro-to-sql)
 
 
 **Random**
@@ -60,8 +60,3 @@ Online resources for getting started with SQL
 
 
 **SQlite, Python & Jupyter**
-
-
-**Recommended**
-
-- [Datasette](https://datasette.io/)
