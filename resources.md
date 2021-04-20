@@ -56,7 +56,12 @@ Online resources for getting started with SQL
 - [Simple US datasets from PADJO](http://2016.padjo.org/tutorials/sqlite-data-starterpacks/)
 
 
-**About databases**
+**About databases etc.**
 
+- [Fortune, Stephen. A brief history of databases. Avant. 2014](http://avant.org/project/history-of-databases/)
 
-**SQlite, Python & Jupyter**
+- [Jones, Alan. Python, pandas and SQLite. 2020](https://towardsdatascience.com/python-pandas-and-sqlite-a0e2c052456f)
+
+- [Pandey, Parul. Programming with databases in python using SQLite. 2018](https://medium.com/analytics-vidhya/programming-with-databases-in-python-using-sqlite-4cecbef51ab9)
+
+- [Tariq, Ayesha. Python SQLite3 tutorial. Likegeeks. 2019](https://likegeeks.com/python-sqlite3-tutorial/)
