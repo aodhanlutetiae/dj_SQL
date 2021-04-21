@@ -21,7 +21,7 @@ Online resources for getting started with SQL
 
 **Interactive tutorials**
 
-- [W3 Schools Intro](https://www.w3schools.com/sql/default.asp)
+- [W3 Schools Intro](https://www.w3schools.com/sql/default.asp), [exercises](https://www.w3schools.com/sql/sql_exercises.asp) and [quiz](https://www.w3schools.com/sql/sql_quiz.asp)
 
 - [Code wars](https://www.codewars.com/collections/sql-for-beginners)
 
@@ -38,7 +38,7 @@ Online resources for getting started with SQL
 
 - [Hillary Clinton's emails, 27 MB](https://www.kaggle.com/kaggle/hillary-clinton-emails)
 
-- [UK arms exports (2008-15), 23 MB](https://www.kaggle.com/kaggle/hillary-clinton-emails)
+- [UK arms exports (2008-15), 23 MB](https://www.kaggle.com/caatdata/uk-arms-export-licences)
 
 - [Machine Bias Propublica Compas, 62 MB](https://github.com/propublica/compas-analysis)
 
@@ -57,6 +57,6 @@ Online resources for getting started with SQL
 
 - [Pandey, Parul. Programming with databases in python using SQLite. 2018](https://medium.com/analytics-vidhya/programming-with-databases-in-python-using-sqlite-4cecbef51ab9)
 
-- [Sengul-Jones, Monika. The promise of wikidata: how journalists can use the crowdsourced open knowledge base as a data source. Datajournalism.com. 2021](https://datajournalism.com/read/longreads/the-promise-of-wikidata)
+- [Schaefer. Lauren. What is NoSQL? Mongodb](https://www.mongodb.com/nosql-explained)
 
-- [Tariq, Ayesha. Python SQLite3 tutorial. Likegeeks. 2019](https://likegeeks.com/python-sqlite3-tutorial/)
+- [Sengul-Jones, Monika. The promise of wikidata: how journalists can use the crowdsourced open knowledge base as a data source. Datajournalism.com. 2021](https://datajournalism.com/read/longreads/the-promise-of-wikidata)
