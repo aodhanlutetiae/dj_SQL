@@ -14,8 +14,6 @@ Online resources for getting started with SQL
 
 - [Troy Thibodeaux's 'Gentle Introduction'](https://a-gentle-introduction-to-sql.readthedocs.io/en/latest/)
 
-- [Paul Bradshaw's SQL chapter](https://docs.google.com/document/d/e/2PACX-1vQQzSM5scsn2wjrL02o-rf9gHaiBQ2GcGoc2QBAXPxq12cKGtH6jFrGVmUt_rUfqtmo41Gq4J1luzkE/pub)
-
 - [Dan Nguyen's course at Stanford](http://www.padjo.org/tutorials/#databases)
 
 
