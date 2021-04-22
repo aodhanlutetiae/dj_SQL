@@ -27,6 +27,8 @@ Online resources for getting started with SQL
 
 - [Dataworld](https://docs.data.world/documentation/sql/concepts/basic/intro.html#sql-on-dataworld)
 
+- [SQL tutorial](https://www.sqltutorial.org)
+
 - [Hackerrank (mysql)](https://www.hackerrank.com/domains/sql)
 
 - [Kaggle SQL walkthroughs via Google Big Query](https://www.kaggle.com/learn/intro-to-sql)
@@ -42,7 +44,7 @@ Online resources for getting started with SQL
 
 - [UK gov Contracts Finders Archive (2011-15), 94 MB](https://data.gov.uk/data/contracts-finder-archive/data-feeds/)
 
-- [Simple US datasets from PADJO](http://2016.padjo.org/tutorials/sqlite-data-starterpacks/)
+- [Simple US databases](http://2016.padjo.org/tutorials/sqlite-data-starterpacks/) and [real-world databases](http://2017.padjo.org/syllabus/index.html#real-world-sql-data) from PADJO
 
 
 **About databases etc.**
