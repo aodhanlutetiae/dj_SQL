@@ -11,6 +11,7 @@ The class structure is:
 - SQLite on the command line introduction (using the Clinton emails database)
 - SQLite in a jupyter notebook (using a single table database of the Tour de France, letour.db)
 ---
+- (Inner) JOIN and LEFT JOIN with geog.db
 - [SQL murder mystery](http://mystery.knightlab.com/index.html#experienced)
 ---
 - What is Datasette?
