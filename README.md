@@ -1,18 +1,18 @@
 # dj_SQL
 
-This is an outline of resources and essential queries for learning SQL for data journalism. It uses SQLite.
+This is an outline of resources and basic syntax for learning SQL for data journalism. It uses SQLite.
 
 The class structure is:
 
 - [SQL Teaching](https://www.sqlteaching.com/) (up to and including GROUP BY)
 - Overview of databases and SQL syntax for data journalism
-- [Select Star](https://selectstarsql.com/) (chapters 1-3)
+- [Select Star](https://selectstarsql.com/) (first two or three chapters)
 ---
-- SQLite on the command line introduction (using the Clinton emails database)
+- SQLite on the command line (using the Clinton emails database)
 - SQLite in a jupyter notebook (using a single table database of the Tour de France, letour.db)
 ---
 - (Inner) JOIN and LEFT JOIN with geog.db
 - [SQL murder mystery](http://mystery.knightlab.com/index.html#experienced)
 ---
-- What is Datasette?
-- [Queries to a Datasette of Members' Interests](https://register-of-members-interests.datasettes.com/regmem)
+- Using Datasette
+- [Queries to a Datasette of Members' Interests](https://github.com/simonw/register-of-members-interests-datasette)
