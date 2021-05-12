@@ -57,6 +57,8 @@ Online resources for getting started with SQL
 
 - [Pandey, Parul. Programming with databases in python using SQLite. 2018](https://medium.com/analytics-vidhya/programming-with-databases-in-python-using-sqlite-4cecbef51ab9)
 
+- [Phiresky. Hosting SQLite databases on github pages. 2021](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages)
+
 - [Schaefer. Lauren. What is NoSQL? Mongodb](https://www.mongodb.com/nosql-explained)
 
 - [Sengul-Jones, Monika. The promise of wikidata: how journalists can use the crowdsourced open knowledge base as a data source. Datajournalism.com. 2021](https://datajournalism.com/read/longreads/the-promise-of-wikidata)
