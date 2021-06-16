@@ -1,8 +1,7 @@
-# dj_SQL
+## dj_SQL
 
-This is an outline of resources and basic syntax for learning SQL for data journalism. It uses SQLite.
-
-The class structure is:
+> This is an outline of resources and basic syntax for learning SQL for data journalism. It uses SQLite.
+> The class structure is:
 
 - [SQL Teaching](https://www.sqlteaching.com/) (up to and including GROUP BY)
 - Overview of databases and SQL syntax for data journalism
