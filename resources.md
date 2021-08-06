@@ -3,6 +3,8 @@ Online resources for getting started with SQL
 
 **Essentials**
 
+- [Glitch SQLite database driven site templates](https://glitch.com/@glitch/database-starters)
+
 - [SQL Teaching](https://www.sqlteaching.com/)
 
 - [Select Star](https://selectstarsql.com/)
