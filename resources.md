@@ -27,6 +27,8 @@ Online resources for getting started with SQL
 
 - [Code academy](https://www.codecademy.com/courses/learn-sql/)
 
+- [Datacamp](https://app.datacamp.com/learn/search?q=SQL)
+
 - [Dataworld](https://docs.data.world/documentation/sql/concepts/basic/intro.html#sql-on-dataworld)
 
 - [SQL tutorial](https://www.sqltutorial.org)
@@ -34,6 +36,8 @@ Online resources for getting started with SQL
 - [Hackerrank (mysql)](https://www.hackerrank.com/domains/sql)
 
 - [Kaggle SQL walkthroughs via Google Big Query](https://www.kaggle.com/learn/intro-to-sql)
+
+- [Kaggle SQL summer camp](https://www.kaggle.com/sql-summer-camp)
 
 
 **SQlite Databases**
@@ -67,71 +71,23 @@ Online resources for getting started with SQL
 
 - [Sengul-Jones, Monika. The promise of wikidata: how journalists can use the crowdsourced open knowledge base as a data source. Datajournalism.com. 2021](https://datajournalism.com/read/longreads/the-promise-of-wikidata)
 
-**CUT**
 
-https://sqlitestudio.pl/index.rvt
-https://sqlitebrowser.org/
+**OTHER**
 
-Code Academy
-Learn SQL 1-4 | Codecademy
+[Carto intro to query by SQL is here](https://carto.com/help/tutorials/getting-started-with-sql-in-carto/)
 
-https://campus.datacamp.com/courses/introduction-to-sql
+[Carto queries for filtered maps by Paul Bradshaw](https://onlinejournalismblog.com/2017/12/01/sql-tutorial-carto-mapping/)
 
-https://www.kaggle.com/sql-summer-camp
+[Cheat Sheet (12 pages)](sql_cheat_sheet_body)
 
-A complete course on SQL using queries to a database on death row inmates.
-Select Star SQL
+[Cheat Sheet online (basics)](https://www.sqlitetutorial.net/sqlite-cheat-sheet/)
 
-SQL as a murder mystery. From the journalism Knight Lab at Northwestern University
-The SQL Murder Mystery
+[GUI - SQLite Studio](https://sqlitestudio.pl)
 
-SQL introductory course from AP’s Troy Thibodeaux (uses DB Browser for SQLite in places)
-A Gentle Introduction to SQL Using SQLite
+[GUI - DB Browser for SQLite](https://sqlitebrowser.org/)
 
-SQL for datajournalism from Dan Nguyen at Stanford
-Introduction to SQL for Data Journalism
-Useful sqlite dbs for practice
+[Injection circa 2016 (don’t do this!!)](https://www.youtube.com/watch?v=ciNHn38EyRc)
 
-W3schools tutorial on SQL
-SQL Tutorial
+[Python notesbooks and sqlite3](https://www.bogotobogo.com/python/python_sqlite_connect_create_drop_table.php), (https://www.dataquest.io/blog/python-pandas-databases/) and (https://datacarpentry.org/python-ecology-lesson/09-working-with-sql/index.html)
 
-Carto intro to query by SQL is here
-https://carto.com/help/tutorials/getting-started-with-sql-in-carto/
-
-List of queries by type for learning or for reference
-SQLZOO - reference for queries
-
-Getting from Excel to SQL
-Excel to SQL crosswalk
-
-Short outline of what databases are
-What are relational databases and why use them_.pdf
-
-12-page cheat sheet that covers the main points of syntax
-sql_cheat_sheet_body
-
-Sqlite core functions
-https://sqlite.org/lang_corefunc.html
-
-Injection (don’t do this!!)
-https://www.youtube.com/watch?v=ciNHn38EyRc (2016)
-
-SQLITE cheat sheet
-https://www.sqlitetutorial.net/sqlite-cheat-sheet/
-
-Paul Bradshaw’s overview of using SQL queries in Carto to create filtered maps
-How to get started with SQL in Carto
-
-SQLite resources. Lots of ‘how do I do x in SQLite?’
-SQLite Frequently Asked Questions
-
-What could be better than using SQL? Well, using SQL with python and with pandas!
-SQLite Databases Using Python and Pandas – Data Analysis and Visualization in Python
-Working with SQLite using Python and Pandas
-SQLite with python
-
-Example of using SPARQL
-SPARQL using Wikidata to generate better artwork
-
-Cypher syntax (reference card)
-https://neo4j.com/docs/cypher-refcard/current/
+[Query list for learning or reference](https://sqlzoo.net/wiki/SQL_Tutorial)
