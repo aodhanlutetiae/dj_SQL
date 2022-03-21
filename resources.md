@@ -1,9 +1,6 @@
-Online resources for getting started with SQL
-
+##Online resources for getting started with SQL
 
 **Essentials**
-
-- [Glitch SQLite database driven site templates](https://glitch.com/@glitch/database-starters)
 
 - [SQL Teaching](https://www.sqlteaching.com/)
 
@@ -74,20 +71,20 @@ Online resources for getting started with SQL
 
 **OTHER**
 
-[Carto intro to query by SQL is here](https://carto.com/help/tutorials/getting-started-with-sql-in-carto/)
+- [Carto intro to query by SQL is here](https://carto.com/help/tutorials/getting-started-with-sql-in-carto/)
 
-[Carto queries for filtered maps by Paul Bradshaw](https://onlinejournalismblog.com/2017/12/01/sql-tutorial-carto-mapping/)
+- [Carto queries for filtered maps by Paul Bradshaw](https://onlinejournalismblog.com/2017/12/01/sql-tutorial-carto-mapping/)
 
-[Cheat Sheet (12 pages)](sql_cheat_sheet_body)
+- [Cheat Sheet (12 pages)](sql_cheat_sheet_body)
 
-[Cheat Sheet online (basics)](https://www.sqlitetutorial.net/sqlite-cheat-sheet/)
+- [Cheat Sheet online (basics)](https://www.sqlitetutorial.net/sqlite-cheat-sheet/)
 
-[GUI - SQLite Studio](https://sqlitestudio.pl)
+- [GUI - SQLite Studio](https://sqlitestudio.pl)
 
-[GUI - DB Browser for SQLite](https://sqlitebrowser.org/)
+- [GUI - DB Browser for SQLite](https://sqlitebrowser.org/)
 
-[Injection circa 2016 (don’t do this!!)](https://www.youtube.com/watch?v=ciNHn38EyRc)
+- [Injection circa 2016 (don’t do this!!)](https://www.youtube.com/watch?v=ciNHn38EyRc)
 
-[Python notesbooks and sqlite3](https://www.bogotobogo.com/python/python_sqlite_connect_create_drop_table.php), (https://www.dataquest.io/blog/python-pandas-databases/) and (https://datacarpentry.org/python-ecology-lesson/09-working-with-sql/index.html)
+- [Python notesbooks and sqlite3](https://www.bogotobogo.com/python/python_sqlite_connect_create_drop_table.php), and [this](https://www.dataquest.io/blog/python-pandas-databases/) and [this](https://datacarpentry.org/python-ecology-lesson/09-working-with-sql/index.html)
 
-[Query list for learning or reference](https://sqlzoo.net/wiki/SQL_Tutorial)
+- [Query list for learning or reference](https://sqlzoo.net/wiki/SQL_Tutorial)
