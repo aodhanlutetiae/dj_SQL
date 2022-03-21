@@ -1,4 +1,4 @@
-##Online resources for getting started with SQL
+## Online resources for getting started with SQL
 
 **Essentials**
 
@@ -39,7 +39,7 @@
 
 **SQlite Databases**
 
-- [The non-fungible token market April-Sept 2021](https://www.kaggle.com/simiotic/ethereum-nfts)
+- [The non-fungible token market April-Sept 2021, 2 GB](https://www.kaggle.com/simiotic/ethereum-nfts)
 
 - [Hillary Clinton's emails, 27 MB](https://www.kaggle.com/kaggle/hillary-clinton-emails)
 
@@ -64,14 +64,12 @@
 
 - [Phiresky. Hosting SQLite databases on github pages. 2021](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages)
 
-- [Schaefer. Lauren. What is NoSQL? Mongodb](https://www.mongodb.com/nosql-explained)
-
-- [Sengul-Jones, Monika. The promise of wikidata: how journalists can use the crowdsourced open knowledge base as a data source. Datajournalism.com. 2021](https://datajournalism.com/read/longreads/the-promise-of-wikidata)
+- [Schaefer. Lauren. What is NoSQL?](https://www.mongodb.com/nosql-explained)
 
 
 **OTHER**
 
-- [Carto intro to query by SQL is here](https://carto.com/help/tutorials/getting-started-with-sql-in-carto/)
+- [Carto's intro to querying by SQL](https://carto.com/help/tutorials/getting-started-with-sql-in-carto/)
 
 - [Carto queries for filtered maps by Paul Bradshaw](https://onlinejournalismblog.com/2017/12/01/sql-tutorial-carto-mapping/)
 
