@@ -8,10 +8,9 @@ This is an outline of resources and basic syntax for learning SQL for data journ
 - [Select Star](https://selectstarsql.com/) (first two or three chapters)
 ---
 **Morning B**
-- SQLite on the command line (using the Clinton emails database)
+- SQLite on the command line (see Clinton emails PDF)
 - SQLite in a jupyter notebook (using a single table database of the Tour de France, letour.db)
-- (Inner) JOIN and LEFT JOIN with geog.db
-- [Glitch templates](https://glitch.com/@glitch/database-starters)
+- (Inner) JOIN and LEFT JOIN on SQLite with geog.db
 ---
 **Afternoon**
 - Using [Datasette](https://datasette.io/) and [Queries to a Datasette of Members' Interests](https://github.com/simonw/register-of-members-interests-datasette)

@@ -3,7 +3,7 @@
 - [Carto](https://carto.com)
 - [Datasette](https://datasette.io/)
 - [Franchise](https://franchise.cloud/app/)
-- [Glitch SQLite database driven site templates](https://glitch.com/@glitch/database-starters)
+- [Glitch SQLite database driven templates](https://glitch.com/@glitch/database-starters)
 - [Google Big Query](https://cloud.google.com/bigquery)
 - [Google Sheets QUERY =](https://support.google.com/docs/answer/3093343?hl=en-GB)
 - [Neo4j (Cypher)](https://neo4j.com/sandbox/)
