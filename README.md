@@ -8,9 +8,10 @@ This is an outline of resources and basic syntax for learning SQL for data journ
 - [Select Star](https://selectstarsql.com/) (first two or three chapters)
 ---
 **Morning B**
+- JOINs on SQLite with geog.db in [Colab notebook](https://colab.research.google.com/drive/13Pph-0FMivBNmLqudq6-Pc735FsodYkR?usp=sharing) or [SQLIME in-browser](https://sqlime.org/)
 - SQLite on the command line (see Clinton emails PDF)
-- SQLite in a jupyter notebook (using a single table database of the Tour de France, letour.db)
-- (Inner) JOIN and LEFT JOIN on SQLite with geog.db
+- SQLite in a [Colab notebook](https://colab.research.google.com/drive/1n3IO3Gi8oUuiDq4j10tcP-2Nq_R8R5sW?usp=sharing) (single table database of Tour de France, letour.db) or a [Franchise notebook](https://franchise.cloud/app/)
+
 ---
 **Afternoon**
 - Using [Datasette](https://datasette.io/) and [Queries to a Datasette of Members' Interests](https://github.com/simonw/register-of-members-interests-datasette)
