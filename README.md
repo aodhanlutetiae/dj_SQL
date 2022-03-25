@@ -5,12 +5,12 @@ This is an outline of resources and basic syntax for learning SQL for data journ
 **Morning A**
 - [SQL Teaching](https://www.sqlteaching.com/) (up to and including GROUP BY)
 - Overview (slideshow) of databases, SQL syntax and joins for data journalism
-- [Select Star](https://selectstarsql.com/) (first two or three chapters)
+- [Select Star](https://selectstarsql.com/) (first two chapters)
 ---
 **Morning B**
-- JOINs on SQLite with geog.db in [Colab notebook](https://colab.research.google.com/drive/13Pph-0FMivBNmLqudq6-Pc735FsodYkR?usp=sharing) or [SQLIME in-browser](https://sqlime.org/)
+- JOINs on SQLite using geog.db and [SQLIME in-browser](https://sqlime.org/) or [Colab notebook](https://colab.research.google.com/drive/13Pph-0FMivBNmLqudq6-Pc735FsodYkR?usp=sharing) or
+- SQLite in a [Franchise notebook](https://franchise.cloud/app/) or [Colab notebook](https://colab.research.google.com/drive/1n3IO3Gi8oUuiDq4j10tcP-2Nq_R8R5sW?usp=sharing) to query single table database of Tour de France, letour.db
 - SQLite on the command line (see Clinton emails PDF)
-- SQLite in a [Colab notebook](https://colab.research.google.com/drive/1n3IO3Gi8oUuiDq4j10tcP-2Nq_R8R5sW?usp=sharing) (single table database of Tour de France, letour.db) or a [Franchise notebook](https://franchise.cloud/app/)
 
 ---
 **Afternoon**
