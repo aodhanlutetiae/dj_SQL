@@ -15,6 +15,9 @@
 
 - [Dan Nguyen's course at Stanford](http://www.padjo.org/tutorials/#databases)
 
+**Documentation**
+
+- [SQLite command line essentials](https://www.sqlite.org/cli.html)
 
 **Interactive tutorials**
 
