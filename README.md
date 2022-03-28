@@ -17,3 +17,4 @@ This is an outline of resources and basic syntax for learning SQL for data journ
 **Afternoon**
 - Using [Datasette](https://datasette.io/) and [Queries to a Datasette of Members' Interests](https://github.com/simonw/register-of-members-interests-datasette)
 - [SQL murder mystery](http://mystery.knightlab.com/index.html#experienced)
+- Application STILL TO COME: database driven user app on [Glitch](https://hello-sqlite.glitch.me/)
