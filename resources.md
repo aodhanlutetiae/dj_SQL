@@ -15,9 +15,11 @@
 
 - [Dan Nguyen's course at Stanford](http://www.padjo.org/tutorials/#databases)
 
+
 **Documentation**
 
 - [SQLite command line essentials](https://www.sqlite.org/cli.html)
+
 
 **Interactive tutorials**
 
@@ -70,7 +72,11 @@
 - [Schaefer. Lauren. What is NoSQL?](https://www.mongodb.com/nosql-explained)
 
 
-**OTHER**
+**Other**
+
+- [Summarising data with SQL (GIJN), Video 1h 15'](https://www.youtube.com/watch?v=lCRbgIEM-nY)
+
+- [Joining tables with SQL (GIJN), Video 1h 15'](https://www.youtube.com/watch?v=XbBkPcJDCco)
 
 - [Carto's intro to querying by SQL](https://carto.com/help/tutorials/getting-started-with-sql-in-carto/)
 
