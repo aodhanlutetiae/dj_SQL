@@ -23,17 +23,15 @@
 
 **Interactive tutorials**
 
-- [W3 Schools Intro](https://www.w3schools.com/sql/default.asp), [exercises](https://www.w3schools.com/sql/sql_exercises.asp) and [quiz](https://www.w3schools.com/sql/sql_quiz.asp)
-
 - [Code wars](https://www.codewars.com/collections/sql-for-beginners)
 
 - [Code academy](https://www.codecademy.com/courses/learn-sql/)
 
-- [Datacamp](https://app.datacamp.com/learn/search?q=SQL)
+- [Datacamp: intro](https://app.datacamp.com/learn/courses/introduction-to-sql)
+
+- [Datacamp: intermediate](https://app.datacamp.com/learn/courses/intermediate-sql)
 
 - [Dataworld](https://docs.data.world/documentation/sql/concepts/basic/intro.html#sql-on-dataworld)
-
-- [SQL tutorial](https://www.sqltutorial.org)
 
 - [Hackerrank (mysql)](https://www.hackerrank.com/domains/sql)
 
@@ -41,8 +39,14 @@
 
 - [Kaggle SQL summer camp](https://www.kaggle.com/sql-summer-camp)
 
+- [SQL tutorial](https://www.sqltutorial.org)
+
+- [W3 Schools Intro](https://www.w3schools.com/sql/default.asp), [exercises](https://www.w3schools.com/sql/sql_exercises.asp) and [quiz](https://www.w3schools.com/sql/sql_quiz.asp)
+
 
 **SQlite Databases**
+
+- [Willison, Simon. UK politicians' money, 2023](https://til.simonwillison.net/shot-scraper/scraping-flourish)
 
 - [The non-fungible token market April-Sept 2021, 2 GB](https://www.kaggle.com/simiotic/ethereum-nfts)
 
