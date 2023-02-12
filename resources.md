@@ -1,5 +1,6 @@
 ## Online resources for getting started with SQL
 
+
 **Essentials**
 
 - [SQL Teaching](https://www.sqlteaching.com/)
@@ -72,6 +73,8 @@
 - [Pandey, Parul. Programming with databases in python using SQLite. 2018](https://medium.com/analytics-vidhya/programming-with-databases-in-python-using-sqlite-4cecbef51ab9)
 
 - [Phiresky. Hosting SQLite databases on github pages. 2021](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages)
+
+- Reilley, Mike & Sunne, Samantha. "SQL", *A Story-Driven Approach to Learning Data Reporting*. Routledge, 2023, p. 141-159. [Library resource](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912154402002420)
 
 - [Schaefer. Lauren. What is NoSQL?](https://www.mongodb.com/nosql-explained)
 
