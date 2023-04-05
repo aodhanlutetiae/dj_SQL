@@ -9,6 +9,8 @@
 
 - [SQL Murder Mystery](http://mystery.knightlab.com/walkthrough.html)
 
+- [Learn SQL with Datasette](https://datasette.io/tutorials/learn-sql)
+
 
 **Data journalists**
 
@@ -80,6 +82,8 @@
 
 
 **Other**
+
+- [Data carpentry SQL course for researchers](https://github.com/swcarpentry/sql-novice-survey)
 
 - [Summarising data with SQL (GIJN), Video 1h 15'](https://www.youtube.com/watch?v=lCRbgIEM-nY)
 
