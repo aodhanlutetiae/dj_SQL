@@ -83,6 +83,8 @@
 
 **Other**
 
+- [SQL learning games](https://lost-at-sql.therobinlord.com/)
+
 - [Data carpentry SQL course for researchers](https://github.com/swcarpentry/sql-novice-survey)
 
 - [Summarising data with SQL (GIJN), Video 1h 15'](https://www.youtube.com/watch?v=lCRbgIEM-nY)
