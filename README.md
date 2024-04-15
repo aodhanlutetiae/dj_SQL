@@ -1,26 +1,22 @@
 ## dj_SQL
 
-This is an outline of resources and basic syntax for learning SQL for data journalism. It uses SQLite. The "Morning B" section has too much material and can be trimmed; otherwise the class structure is:
+This is an outline of resources and basic syntax for learning SQL for data journalism. It uses SQLite. The class structure is:
 
-**Morning A**
-- [SQL Teaching](https://www.sqlteaching.com/) (up to and including GROUP BY)
+- [PREP: SQL Teaching](https://www.sqlteaching.com/) (up to and including GROUP BY)
+- [Select Star](https://selectstarsql.com/) (first chapter)
 - Overview of databases, SQL syntax and joins for data journalism
-- [Select Star](https://selectstarsql.com/) (first two chapters)
+- [7-table database of money to MPs, via a .db and a Datasette](https://til.simonwillison.net/shot-scraper/scraping-flourish). This uses the Register of Members' Interests (MPs), the Register of APPGs and Electoral Commission's database on party donations.
+- [Queries to a Datasette of the Register of Members' Interests](https://github.com/simonw/register-of-members-interests-datasette). This uses the MySociety XML of the Register of Members' Interests.
+- [SQL murder mystery](http://mystery.knightlab.com/index.html#experienced)
 
 ---
-**Morning B**
+**Extra**
 - JOINs on SQLite using geog.db and [SQLIME in-browser](https://sqlime.org/) (or [Colab JOINS notebook](https://colab.research.google.com/drive/13Pph-0FMivBNmLqudq6-Pc735FsodYkR?usp=sharing))
   - SELECT * FROM nations JOIN cities ON nations.id = cities.id
   - SELECT * FROM cities LEFT JOIN nations ON nations.id = cities.id
 - SQLite in a [Franchise notebook](https://franchise.cloud/app/) (or [Colab TDF notebook](https://colab.research.google.com/drive/1n3IO3Gi8oUuiDq4j10tcP-2Nq_R8R5sW?usp=sharing)) to query single Tour de France table, letour.db
 - SQLite on the command line (see Clinton emails PDF) or in [Colab CLINTON notebook](https://colab.research.google.com/drive/1NOUTBoVt7Lf34IcWFSKXQVq90dXiF7IN?usp=sharing)
 - Google Sheets [example](https://github.com/aodhanlutetiae/dj_SQL/blob/main/tdf_sql_using_QUERY.xlsx)
-
----
-**Afternoon**
-- [7-table database of money to MPs, via a .db and a Datasette](https://til.simonwillison.net/shot-scraper/scraping-flourish)
-- [Queries to a Datasette of Members' Interests](https://github.com/simonw/register-of-members-interests-datasette)
-- [SQL murder mystery](http://mystery.knightlab.com/index.html#experienced)
 
 
 
