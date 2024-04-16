@@ -1,8 +1,8 @@
 **Applications & variants**
 
-- [Carto](https://carto.com)
+<!-- - [Carto](https://carto.com) -->
 - [Datasette](https://datasette.io/)
-- [Franchise](https://franchise.cloud/app/)
+<!-- - [Franchise](https://franchise.cloud/app/) -->
 - [Glitch SQLite database driven templates](https://glitch.com/@glitch/database-starters)
 - [Google Big Query](https://cloud.google.com/bigquery)
 - [Google Sheets QUERY =](https://support.google.com/docs/answer/3093343?hl=en-GB)

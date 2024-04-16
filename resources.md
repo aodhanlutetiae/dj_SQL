@@ -14,16 +14,13 @@
 
 **Data journalists**
 
+- [Helena Bengtsson. Summarising data with SQL (GIJN), Video 1h 15'](https://www.youtube.com/watch?v=lCRbgIEM-nY) & [Bengtsson, Helena. Joining tables with SQL (GIJN), Video 1h 15'](https://www.youtube.com/watch?v=XbBkPcJDCco)
+
 - [Dan Nguyen's course at Stanford](http://www.padjo.org/tutorials/#databases)
 
-- Reilley, Mike & Sunne, Samantha. "SQL", *A Story-Driven Approach to Learning Data Reporting*. Routledge, 2023, p. 141-159. [Library resource](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912154402002420)
+- Sunne, Samantha. "SQL", in Reilley, Mike & Sunne, Samantha, *A Story-Driven Approach to Learning Data Reporting*. Routledge, 2023, p. 141-159. [Library resource](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912154402002420)
 
 - [Troy Thibodeaux's 'Gentle Introduction'](https://a-gentle-introduction-to-sql.readthedocs.io/en/latest/)
-
-
-**Documentation**
-
-- [SQLite command line essentials](https://www.sqlite.org/cli.html)
 
 
 **SQlite Databases**
@@ -39,6 +36,29 @@
 - [Hillary Clinton's emails, 2015, 27 MB](https://www.kaggle.com/kaggle/hillary-clinton-emails)
 
 - [Simple US databases](http://2016.padjo.org/tutorials/sqlite-data-starterpacks/) and [real-world databases](http://2017.padjo.org/syllabus/index.html#real-world-sql-data) from PADJO
+
+
+**More**
+
+- [Online - db fiddle](https://www.db-fiddle.com/)
+
+- [Online - sqlime](https://sqlime.org/)
+
+- [GUI - SQLite Studio](https://sqlitestudio.pl)
+
+- [GUI - DB Browser for SQLite](https://sqlitebrowser.org/)
+
+- [SQLite command line essentials](https://www.sqlite.org/cli.html)
+
+- [Injection (don’t do this!!) circa 2016 but still current](https://www.youtube.com/watch?v=ciNHn38EyRc)
+
+- [SQLITE in Python notesbooks](https://www.bogotobogo.com/python/python_sqlite_connect_create_drop_table.php), and [this](https://www.dataquest.io/blog/python-pandas-databases/) and [this](https://datacarpentry.org/python-ecology-lesson/09-working-with-sql/index.html)
+
+- [Cheat Sheet (12 pages)](sql_cheat_sheet_body) & [Cheat Sheet online (basics)](https://www.sqlitetutorial.net/sqlite-cheat-sheet/) & [Query list for learning or reference](https://sqlzoo.net/wiki/SQL_Tutorial)
+
+- [SQL learning games](https://lost-at-sql.therobinlord.com/)
+
+- [Data carpentry SQL course for researchers](https://github.com/swcarpentry/sql-novice-survey)
 
 
 **Tutorials**
@@ -70,24 +90,3 @@
 - [SQL tutorial](https://www.sqltutorial.org)
 
 - [W3 Schools Intro](https://www.w3schools.com/sql/default.asp), [exercises](https://www.w3schools.com/sql/sql_exercises.asp) and [quiz](https://www.w3schools.com/sql/sql_quiz.asp)
-
-
-**More**
-
-- [SQL learning games](https://lost-at-sql.therobinlord.com/)
-
-- [Data carpentry SQL course for researchers](https://github.com/swcarpentry/sql-novice-survey)
-
-- [Summarising data with SQL (GIJN), Video 1h 15'](https://www.youtube.com/watch?v=lCRbgIEM-nY) & [Joining tables with SQL (GIJN), Video 1h 15'](https://www.youtube.com/watch?v=XbBkPcJDCco)
-
-- [Cheat Sheet (12 pages)](sql_cheat_sheet_body) & [Cheat Sheet online (basics)](https://www.sqlitetutorial.net/sqlite-cheat-sheet/) & [Query list for learning or reference](https://sqlzoo.net/wiki/SQL_Tutorial)
-
-- [GUI - SQLite Studio](https://sqlitestudio.pl)
-
-- [GUI - DB Browser for SQLite](https://sqlitebrowser.org/)
-
-- [Injection circa 2016 (don’t do this!!)](https://www.youtube.com/watch?v=ciNHn38EyRc)
-
-- [SQLITE in Python notesbooks](https://www.bogotobogo.com/python/python_sqlite_connect_create_drop_table.php), and [this](https://www.dataquest.io/blog/python-pandas-databases/) and [this](https://datacarpentry.org/python-ecology-lesson/09-working-with-sql/index.html)
-
-
