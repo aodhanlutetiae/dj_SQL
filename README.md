@@ -4,8 +4,8 @@ This is an outline of resources and basic syntax for learning SQL for data journ
 
 - [PREP: SQL Teaching](https://www.sqlteaching.com/) (up to and including GROUP BY)
 - [Select Star](https://selectstarsql.com/) (first chapter)
-- Overview of databases, SQL syntax and joins for data journalism
-- [Queries to a DATASETTE of the Register of Members' Interests](https://github.com/simonw/register-of-members-interests-datasette). This uses the MySociety XML of the Register of Members' Interests.
+- Overview of SQL for data journalism
+- [Queries to a DATASETTE of the Register of Members' Interests](https://register-of-members-interests.datasettes.com/). This uses the MySociety XML of the (Register of Members' Interests)[https://www.parliament.uk/mps-lords-and-offices/standards-and-financial-interests/parliamentary-commissioner-for-standards/registers-of-interests/register-of-members-financial-interests/]. There is a (background repo)[https://github.com/simonw/register-of-members-interests-datasette]). 
 - [7-table database of money to MPs, via a .db and a Datasette](https://til.simonwillison.net/shot-scraper/scraping-flourish). This uses the Sky News Register of Members' Interests (MPs), Register of APPGs and Electoral Commission's party donation database.
 - [SQL murder mystery](http://mystery.knightlab.com/index.html#experienced)
 

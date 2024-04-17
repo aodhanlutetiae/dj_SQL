@@ -1,8 +1,6 @@
 **Applications & variants**
 
-<!-- - [Carto](https://carto.com) -->
 - [Datasette](https://datasette.io/)
-<!-- - [Franchise](https://franchise.cloud/app/) -->
 - [Glitch SQLite database driven templates](https://glitch.com/@glitch/database-starters)
 - [Google Big Query](https://cloud.google.com/bigquery)
 - [Google Sheets QUERY =](https://support.google.com/docs/answer/3093343?hl=en-GB)
@@ -10,3 +8,6 @@
 - [QGIS](https://www.qgis.org/en/site/)
 - [Query AWS via Amazon Athena](https://docs.aws.amazon.com/athena/latest/ug/querying-athena-tables.html)
 - [Wikidata (SPARQL)](https://query.wikidata.org/)
+
+<!-- - [Franchise](https://franchise.cloud/app/) -->
+<!-- - [Carto](https://carto.com) -->

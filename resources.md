@@ -23,7 +23,9 @@
 - [Troy Thibodeaux's 'Gentle Introduction'](https://a-gentle-introduction-to-sql.readthedocs.io/en/latest/)
 
 
-**SQlite Databases**
+**SQLite databases**
+
+- [Willison, Simon. Register of Members' Interests, 2024, 8MB](https://register-of-members-interests.datasettes.com/regmem) | .db doesn't seem to download correctly
 
 - [Willison, Simon. UK politicians' money, 2023, 6MB](https://til.simonwillison.net/shot-scraper/scraping-flourish)
 
@@ -76,8 +78,6 @@
 - [Free code camp: 5h video course](https://www.youtube.com/watch?v=-fW2X7fh7Yg)
 
 - [Free Code Camp. SQL tutorials (specific points)](https://www.freecodecamp.org/news/search/?query=sql)
-
-- [Hackerrank (mysql)](https://www.hackerrank.com/domains/sql)
 
 - [Kaggle SQL walkthroughs via Google Big Query](https://www.kaggle.com/learn/intro-to-sql)
 
