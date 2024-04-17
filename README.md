@@ -6,7 +6,7 @@ This is an outline of resources and basic syntax for learning SQL for data journ
 - [Select Star](https://selectstarsql.com/) (Chapter 1)
 - Overview of SQL for data journalism
 - [Queries to a DATASETTE of the Register of Members' Interests](https://register-of-members-interests.datasettes.com/). This uses the MySociety XML of the [Register of Members' Interests](https://www.parliament.uk/mps-lords-and-offices/standards-and-financial-interests/parliamentary-commissioner-for-standards/registers-of-interests/register-of-members-financial-interests/). There is a [background repo](https://github.com/simonw/register-of-members-interests-datasette). 
-- 7-table database of money to MPs, via a .db available [here](https://static.simonwillison.net/static/2023/sky-westminster-files.db) and a [Datasette](https://lite.datasette.io/?sql=https://gist.github.com/simonw/ee4d5938016b10c490f7efa03c4bf185). This uses the Sky News Register of Members' Interests (MPs), Register of APPGs and Electoral Commission's party donation database. Background [here](https://til.simonwillison.net/shot-scraper/scraping-flourish).
+- 7-table database of money to MPs, [via a .db you can download](https://static.simonwillison.net/static/2023/sky-westminster-files.db) and a [Datasette](https://lite.datasette.io/?sql=https://gist.github.com/simonw/ee4d5938016b10c490f7efa03c4bf185). This uses the Sky News Register of Members' Interests (MPs), Register of APPGs and Electoral Commission's party donation database. Background [here](https://til.simonwillison.net/shot-scraper/scraping-flourish).
 - [SQL murder mystery](http://mystery.knightlab.com/index.html#experienced)
 
 ---
