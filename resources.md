@@ -32,12 +32,19 @@
 **Applications & variants**
 
 - [Datasette](https://datasette.io/)
+
 - [Google Big Query](https://cloud.google.com/bigquery)
+
 - [Google Sheets QUERY =](https://support.google.com/docs/answer/3093343?hl=en-GB)
+
 - [Neo4j (Cypher)](https://neo4j.com/sandbox/)
+
 - [QGIS](https://www.qgis.org/en/site/)
+
 - [Query AWS via Amazon Athena](https://docs.aws.amazon.com/athena/latest/ug/querying-athena-tables.html)
+
 - [Wikidata (SPARQL)](https://query.wikidata.org/)
+
 
 **More**
 
@@ -74,14 +81,17 @@
 
 - [Free Code Camp. SQL tutorials (specific points)](https://www.freecodecamp.org/news/search/?query=sql)
 
+- [Game: Lost at SQL](https://lost-at-sql.therobinlord.com/)
+
+- [Game: SQL mystery game](https://www.sqlnoir.com/) 
+
 - [Kaggle SQL walkthroughs via Google Big Query](https://www.kaggle.com/learn/intro-to-sql)
 
 - [Kaggle SQL summer camp](https://www.kaggle.com/sql-summer-camp)
-
-- [Lost at SQL game](https://lost-at-sql.therobinlord.com/)
 
 - [Observable for SQL](https://observablehq.com/@observablehq/working-with-sql)
 
 - [SQL tutorial](https://www.sqltutorial.org)
 
 - [W3 Schools Intro](https://www.w3schools.com/sql/default.asp), [exercises](https://www.w3schools.com/sql/sql_exercises.asp) and [quiz](https://www.w3schools.com/sql/sql_quiz.asp)
+
