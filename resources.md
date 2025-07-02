@@ -28,7 +28,20 @@
 
 - [Hillary Clinton's emails, 2015, 27 MB](https://www.kaggle.com/kaggle/hillary-clinton-emails)
 
+
+**Applications & variants**
+
+- [Datasette](https://datasette.io/)
+- [Google Big Query](https://cloud.google.com/bigquery)
+- [Google Sheets QUERY =](https://support.google.com/docs/answer/3093343?hl=en-GB)
+- [Neo4j (Cypher)](https://neo4j.com/sandbox/)
+- [QGIS](https://www.qgis.org/en/site/)
+- [Query AWS via Amazon Athena](https://docs.aws.amazon.com/athena/latest/ug/querying-athena-tables.html)
+- [Wikidata (SPARQL)](https://query.wikidata.org/)
+
 **More**
+
+- [Franchise - online notebooks](https://franchise.cloud/app/)
 
 - [Online - db fiddle](https://www.db-fiddle.com/)
 
