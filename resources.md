@@ -1,18 +1,7 @@
-## Online resources for getting started with SQL
+## Online SQL resources
 
 
-**Essentials**
-
-- [SQL Teaching](https://www.sqlteaching.com/)
-
-- [Select Star](https://selectstarsql.com/)
-
-- [SQL Murder Mystery](http://mystery.knightlab.com/walkthrough.html)
-
-- [Learn SQL with Datasette](https://datasette.io/tutorials/learn-sql)
-
-
-**Data journalists**
+**Data journalists etc.**
 
 - [Helena Bengtsson. Summarising data with SQL (GIJN), Video 1h 15'](https://www.youtube.com/watch?v=lCRbgIEM-nY) & [Bengtsson, Helena. Joining tables with SQL (GIJN), Video 1h 15'](https://www.youtube.com/watch?v=XbBkPcJDCco)
 
@@ -22,23 +11,22 @@
 
 - [Troy Thibodeaux's 'Gentle Introduction'](https://a-gentle-introduction-to-sql.readthedocs.io/en/latest/)
 
+- [Data carpentry SQL course for researchers](https://github.com/swcarpentry/sql-novice-survey)
 
-**SQLite databases**
+
+**SQLite databases for journalism**
 
 - [Willison, Simon. Register of Members' Interests, 2024, 8MB](https://register-of-members-interests.datasettes.com/regmem) | .db doesn't seem to download correctly
 
 - [Willison, Simon. UK politicians' money, 2023, 6MB](https://til.simonwillison.net/shot-scraper/scraping-flourish)
 
-- [UK arms exports (2008-17), 23 MB](https://www.kaggle.com/caatdata/uk-arms-export-licences)
+- [CAAT. UK arms exports (2008-17), 23 MB](https://www.kaggle.com/caatdata/uk-arms-export-licences)
 
-- [UK gov Contracts Finders Archive (2011-15), 94 MB](https://www.data.gov.uk/dataset/97c75a0c-dd9b-42f9-969c-5e667d8c80f1/contracts-finder-archive-2011-to-2015)
+- [UK govt Contracts Finders Archive (2011-15), 94 MB](https://www.data.gov.uk/dataset/97c75a0c-dd9b-42f9-969c-5e667d8c80f1/contracts-finder-archive-2011-to-2015)
 
 - [Machine Bias Propublica Compas, 2016, 62 MB](https://github.com/propublica/compas-analysis)
 
 - [Hillary Clinton's emails, 2015, 27 MB](https://www.kaggle.com/kaggle/hillary-clinton-emails)
-
-- [Simple US databases](http://2016.padjo.org/tutorials/sqlite-data-starterpacks/) and [real-world databases](http://2017.padjo.org/syllabus/index.html#real-world-sql-data) from PADJO
-
 
 **More**
 
@@ -54,13 +42,7 @@
 
 - [Injection (don’t do this!!) circa 2016 but still current](https://www.youtube.com/watch?v=ciNHn38EyRc)
 
-- [SQLITE in Python notesbooks](https://www.bogotobogo.com/python/python_sqlite_connect_create_drop_table.php), and [this](https://www.dataquest.io/blog/python-pandas-databases/) and [this](https://datacarpentry.org/python-ecology-lesson/09-working-with-sql/index.html)
-
-- [Cheat Sheet (12 pages)](sql_cheat_sheet_body) & [Cheat Sheet online (basics)](https://www.sqlitetutorial.net/sqlite-cheat-sheet/) & [Query list for learning or reference](https://sqlzoo.net/wiki/SQL_Tutorial)
-
-- [SQL learning games](https://lost-at-sql.therobinlord.com/)
-
-- [Data carpentry SQL course for researchers](https://github.com/swcarpentry/sql-novice-survey)
+- [Query list for learning or reference](https://sqlzoo.net/wiki/SQL_Tutorial)
 
 
 **Tutorials**
